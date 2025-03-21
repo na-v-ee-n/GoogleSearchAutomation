@@ -1,0 +1,7 @@
+<suite name="GoogleSearchSuite" parallel="methods" thread-count="4">
+    <test name="GoogleSearchTests">
+        <classes>
+            <class name="tests.GoogleSearchTests"/>
+        </classes>
+    </test>
+</suite>
